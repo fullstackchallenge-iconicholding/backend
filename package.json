@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "cross-env DB_ENV=testing jest --watchAll --verbose"
   },
   "repository": {
     "type": "git",
