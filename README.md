@@ -72,7 +72,7 @@ $ npm start
 * You will see the below message in terminal if everything was successfully installed:
 ** Running on port 4100 **
 
-* Run all automated tests for users, cars and stats helper models
+* Enter below command to run automated tests for users
 ```sh
 $ npm test
 ```
