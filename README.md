@@ -60,19 +60,17 @@ I prefer npm as when you install Node.js, npm will install automaically. Here's 
 
 * Once you've succesfully installed node and npm, enter this command and it will install all the dependencies required
 by the project at once:
-
 ```sh
-$ npm install
+$ `yarn install` or `npm install` 
 ```
-* Enter below command to run app
-
+* Enter below command to start the API
 ```sh
-$ npm start
+$ `yarn start` or `npm start` 
 ```
 You will see the below message in terminal if everything was successfully installed:
 ** Running on port 4100 **
 
 * Enter below command to run automated tests for users
 ```sh
-$ npm test
+$ `yarn test` or `npm test` 
 ```
