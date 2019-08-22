@@ -64,12 +64,12 @@ by the project at once:
 ```sh
 $ npm install
 ```
-* Run app
+* Enter below command to run app
 
 ```sh
 $ npm start
 ```
-* You will see the below message in terminal if everything was successfully installed:
+You will see the below message in terminal if everything was successfully installed:
 ** Running on port 4100 **
 
 * Enter below command to run automated tests for users
